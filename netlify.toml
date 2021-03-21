@@ -5,7 +5,7 @@
 
 [[redirects]]
   from = "/api/rooms"
-  to = "https://api.daily.co/v1/rooms"
+  to = "https://crew.daily.co/v1/rooms"
   status = 200
   force = true
   headers = {Authorization = "Bearer DAILY_API_KEY_PLACEHOLDER"}
